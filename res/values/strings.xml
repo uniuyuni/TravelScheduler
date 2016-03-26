@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">トラベルスケジューラー</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_editor">スケジュール編集</string>
+    <string name="tv_date">日付</string>
+    <string name="tv_item">項目名</string>
+
+    <string-array name="sp_item">
+        <item>移動</item>
+        <item>観光</item>
+        <item>宿泊</item>
+    </string-array>
+
+    <string name="tv_cost">コスト</string>
+
+    <string-array name="sa_use">
+        <item>路線名</item>
+        <item>観光地</item>
+        <item>宿泊先</item>
+    </string-array>
+
+    <string-array name="sa_start_name">
+        <item>出発場所</item>
+        <item>到着場所</item>
+        <item>到着場所</item>
+    </string-array>
+
+    <string-array name="sa_end_name">
+        <item>到着場所</item>
+        <item>出発場所</item>
+        <item>出発場所</item>
+    </string-array>
+
+    <string-array name="sa_start_time_title">
+        <item>出発時刻</item>
+        <item>到着時刻</item>
+        <item>到着時刻</item>
+    </string-array>
+
+    <string-array name="sa_end_time_title">
+        <item>到着時刻</item>
+        <item>出発時刻</item>
+        <item>出発時刻</item>
+    </string-array>
+
+    <string name="tv_startname">出発場所</string>
+    <string name="tv_endname">到着場所</string>
+    <string name="tv_starttime">出発時刻</string>
+    <string name="tv_endtime">到着時刻</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="minute">分</string>
+    <string name="hour">時</string>
+
+    <string name="change_name">名前変更</string>
+    <string name="delete">削除</string>
+
+    <string name="schedule_insert_title">スケジュール名入力</string>
+    <string name="schedule_insert_message">スケジュールの名前を入力してください。</string>
+    <string name="schedule_insert_toast">%sが追加されました</string>
+
+    <string name="schedule_change_title">スケジュール名変更</string>
+    <string name="schedule_change_message">スケジュール名変更</string>
+    <string name="schedule_change_toast">変更しました</string>
+
+    <string name="schedule_delete_titele">スケジュールの削除</string>
+    <string name="schedule_delete_message">%sのスケジュールがすべて削除されますよろしいですか？</string>
+    <string name="schedule_delete_toast">削除しました</string>
+
+    <string name="entry_delete_title">項目の削除</string>
+    <string name="entry_delete_message">スケジュールの項目が削除されますよろしいですか？</string>
+    <string name="entry_delete_toast">削除しました</string>
+
+</resources>
