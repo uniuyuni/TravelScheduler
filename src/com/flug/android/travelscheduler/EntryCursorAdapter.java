@@ -102,10 +102,10 @@ public class EntryCursorAdapter extends ResourceCursorAdapter {
 		Resources resources = mContext.getResources();
 
 		holder.tv_use.setText( resources.getStringArray( R.array.sa_use )[itemId] );
-		holder.tv_start_name.setText( resources.getStringArray( R.array.sa_start_name )[itemId] );
-		holder.tv_end_name.setText( resources.getStringArray( R.array.sa_end_name )[itemId] );
-		holder.tv_start_time_title.setText( resources.getStringArray( R.array.sa_start_time_title )[itemId] );
-		holder.tv_end_time_title.setText( resources.getStringArray( R.array.sa_end_time_title )[itemId] );
+//		holder.tv_start_name.setText( resources.getStringArray( R.array.sa_start_name )[itemId] );
+//		holder.tv_end_name.setText( resources.getStringArray( R.array.sa_end_name )[itemId] );
+//		holder.tv_start_time_title.setText( resources.getStringArray( R.array.sa_start_time_title )[itemId] );
+//		holder.tv_end_time_title.setText( resources.getStringArray( R.array.sa_end_time_title )[itemId] );
 	}
 
 	// 以下何回も何回も呼ばれるのでフラグで振り分けたくなるが
